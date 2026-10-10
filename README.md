@@ -24,7 +24,7 @@
 
 ## ☕ Sobre mim
 
-Olá! Eu sou **Manuelevian4**, estudante de **Engenharia da Computação**.
+Olá! Eu sou **Manu Viana**, estudante de **Engenharia da Computação**.
 
 Estou construindo minha base na área de tecnologia, explorando programação, desenvolvimento e ferramentas de criação digital.
 
